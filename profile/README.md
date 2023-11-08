@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="logo/skippy.jpg" />
+  <img src="./skippy.jpg" />
 </p>
 
 
