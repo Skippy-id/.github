@@ -1,5 +1,6 @@
 
-![Mediamodifier-Design-Template](https://github.com/Skippy-id/.github/assets/34531983/4a1828fc-015c-483d-8c44-436ff1913320)
+
+![Mediamodifier-Design-Template (1)](https://github.com/Skippy-id/.github/assets/34531983/6b524922-3ca5-40a5-9dc2-4f491c387475)
 
 
 <!--
