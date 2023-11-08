@@ -1,6 +1,10 @@
 
 
-![Mediamodifier-Design-Template (1)](https://github.com/Skippy-id/.github/assets/34531983/6b524922-3ca5-40a5-9dc2-4f491c387475)
+<p align="center">
+  <img src="logo/skippy.jpg" />
+</p>
+
+
 
 
 <!--
