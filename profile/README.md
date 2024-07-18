@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="../skippy.jpg" width="700"  />
+  <img src="../skippy.jpg" width="360"  />
 </p>
 
 
